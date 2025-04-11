@@ -1,5 +1,8 @@
-lib/firebase/config.js
+src/lib/firebase/config.js
 .next/
 .firebase/
 node_modules/
 .env
+database-debug.log
+firebase-debug.log
+firestore-debug.log
